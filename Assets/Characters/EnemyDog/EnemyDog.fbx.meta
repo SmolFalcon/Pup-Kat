@@ -1,0 +1,347 @@
+fileFormatVersion: 2
+guid: daeab7e798d0fab4f9891cbf2c64505b
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: EnemyDog
+    100004: EnemyDog_2
+    100006: Eyes
+    100008: Head
+    100010: HeadTop
+    100012: L_Ankle
+    100014: L_Clavicle
+    100016: L_Foot
+    100018: L_Forearm
+    100020: L_Knee
+    100022: L_Thigh
+    100024: L_Toe
+    100026: L_UpperArm
+    100028: L_Wrist
+    100030: LF_Toe
+    100032: LF_Toe1
+    100034: Neck
+    100036: Neck1
+    100038: Pelvis
+    100040: R_Ankle
+    100042: R_Clavicle
+    100044: R_Foot
+    100046: R_Forearm
+    100048: R_Knee
+    100050: R_Thigh
+    100052: R_Toe
+    100054: R_UpperArm
+    100056: R_Wrist
+    100058: RF_Toe
+    100060: RF_Toe1
+    100062: Root
+    100064: Spine
+    100066: Spine1
+    100068: Spine2
+    100070: Tail_01
+    100072: Tail_02
+    100074: Tail_03
+    100076: ViewCone
+    100078: ViewCone_2
+    400000: //RootNode
+    400002: EnemyDog
+    400004: EnemyDog_2
+    400006: Eyes
+    400008: Head
+    400010: HeadTop
+    400012: L_Ankle
+    400014: L_Clavicle
+    400016: L_Foot
+    400018: L_Forearm
+    400020: L_Knee
+    400022: L_Thigh
+    400024: L_Toe
+    400026: L_UpperArm
+    400028: L_Wrist
+    400030: LF_Toe
+    400032: LF_Toe1
+    400034: Neck
+    400036: Neck1
+    400038: Pelvis
+    400040: R_Ankle
+    400042: R_Clavicle
+    400044: R_Foot
+    400046: R_Forearm
+    400048: R_Knee
+    400050: R_Thigh
+    400052: R_Toe
+    400054: R_UpperArm
+    400056: R_Wrist
+    400058: RF_Toe
+    400060: RF_Toe1
+    400062: Root
+    400064: Spine
+    400066: Spine1
+    400068: Spine2
+    400070: Tail_01
+    400072: Tail_02
+    400074: Tail_03
+    400076: ViewCone
+    400078: ViewCone_2
+    2100000: No Name
+    2300000: EnemyDog_2
+    2300002: Eyes
+    3300000: EnemyDog_2
+    3300002: Eyes
+    4300000: EnemyDog_2
+    4300002: Eyes
+    4300004: ViewCone_2
+    7400000: T-Pose
+    7400002: Idle
+    7400004: T-Pose //// Pelvis
+    7400006: Idle //// Pelvis
+    7400008: T-Pose //// Tail_01
+    7400010: Idle //// Tail_01
+    7400012: T-Pose //// Tail_02
+    7400014: Idle //// Tail_02
+    7400016: T-Pose //// Tail_03
+    7400018: Idle //// Tail_03
+    7400020: T-Pose //// Spine
+    7400022: Idle //// Spine
+    7400024: T-Pose //// L_Thigh
+    7400026: Idle //// L_Thigh
+    7400028: T-Pose //// L_Knee
+    7400030: Idle //// L_Knee
+    7400032: T-Pose //// L_Ankle
+    7400034: Idle //// L_Ankle
+    7400036: T-Pose //// L_Foot
+    7400038: Idle //// L_Foot
+    7400040: T-Pose //// L_Toe
+    7400042: Idle //// L_Toe
+    7400044: T-Pose //// R_Thigh
+    7400046: Idle //// R_Thigh
+    7400048: T-Pose //// R_Knee
+    7400050: Idle //// R_Knee
+    7400052: T-Pose //// R_Ankle
+    7400054: Idle //// R_Ankle
+    7400056: T-Pose //// R_Foot
+    7400058: Idle //// R_Foot
+    7400060: T-Pose //// R_Toe
+    7400062: Idle //// R_Toe
+    7400064: T-Pose //// Spine1
+    7400066: Idle //// Spine1
+    7400068: T-Pose //// Spine2
+    7400070: Idle //// Spine2
+    7400072: T-Pose //// Neck
+    7400074: Idle //// Neck
+    7400076: T-Pose //// L_Clavicle
+    7400078: Idle //// L_Clavicle
+    7400080: T-Pose //// L_UpperArm
+    7400082: Idle //// L_UpperArm
+    7400084: T-Pose //// L_Forearm
+    7400086: Idle //// L_Forearm
+    7400088: T-Pose //// L_Wrist
+    7400090: Idle //// L_Wrist
+    7400092: T-Pose //// LF_Toe
+    7400094: Idle //// LF_Toe
+    7400096: T-Pose //// LF_Toe1
+    7400098: Idle //// LF_Toe1
+    7400100: T-Pose //// R_Clavicle
+    7400102: Idle //// R_Clavicle
+    7400104: T-Pose //// R_UpperArm
+    7400106: Idle //// R_UpperArm
+    7400108: T-Pose //// R_Forearm
+    7400110: Idle //// R_Forearm
+    7400112: T-Pose //// R_Wrist
+    7400114: Idle //// R_Wrist
+    7400116: T-Pose //// RF_Toe
+    7400118: Idle //// RF_Toe
+    7400120: T-Pose //// RF_Toe1
+    7400122: Idle //// RF_Toe1
+    7400124: T-Pose //// Neck1
+    7400126: Idle //// Neck1
+    7400128: T-Pose //// Head
+    7400130: Idle //// Head
+    7400132: T-Pose //// HeadTop
+    7400134: Idle //// HeadTop
+    7400136: T-Pose //// Root
+    7400138: Idle //// Root
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: EnemyDog
+    11100004: EnemyDog_2
+    11100006: Eyes
+    11100008: Head
+    11100010: HeadTop
+    11100012: L_Ankle
+    11100014: L_Clavicle
+    11100016: L_Foot
+    11100018: L_Forearm
+    11100020: L_Knee
+    11100022: L_Thigh
+    11100024: L_Toe
+    11100026: L_UpperArm
+    11100028: L_Wrist
+    11100030: LF_Toe
+    11100032: LF_Toe1
+    11100034: Neck
+    11100036: Neck1
+    11100038: Pelvis
+    11100040: R_Ankle
+    11100042: R_Clavicle
+    11100044: R_Foot
+    11100046: R_Forearm
+    11100048: R_Knee
+    11100050: R_Thigh
+    11100052: R_Toe
+    11100054: R_UpperArm
+    11100056: R_Wrist
+    11100058: RF_Toe
+    11100060: RF_Toe1
+    11100062: Root
+    11100064: Spine
+    11100066: Spine1
+    11100068: Spine2
+    11100070: Tail_01
+    11100072: Tail_02
+    11100074: Tail_03
+    13700000: EnemyDog_2
+    13700002: Eyes
+    13700004: ViewCone_2
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: T-Pose
+      takeName: CINEMA_4D_Principal
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: CINEMA_4D_Principal
+      firstFrame: 11
+      lastFrame: 60
+      wrapMode: 2
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 1
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

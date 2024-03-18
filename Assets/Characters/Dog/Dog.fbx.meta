@@ -1,0 +1,266 @@
+fileFormatVersion: 2
+guid: c84c8852a64659842994618fd1966eb6
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Collar
+    100002: //RootNode
+    100004: Dog
+    100006: Head
+    100008: HeadTop
+    100010: L_Ankle
+    100012: L_Clavicle
+    100014: L_Foot
+    100016: L_Forearm
+    100018: L_Knee
+    100020: L_Thigh
+    100022: L_Toe
+    100024: L_UpperArm
+    100026: L_Wrist
+    100028: LF_Toe
+    100030: LF_Toe1
+    100032: Neck
+    100034: Neck1
+    100036: Pelvis
+    100038: R_Ankle
+    100040: R_Clavicle
+    100042: R_Foot
+    100044: R_Forearm
+    100046: R_Knee
+    100048: R_Thigh
+    100050: R_Toe
+    100052: R_UpperArm
+    100054: R_Wrist
+    100056: RF_Toe
+    100058: RF_Toe1
+    100060: Spine
+    100062: Spine1
+    100064: Spine2
+    100066: Tag
+    100068: Tail_01
+    100070: Tail_02
+    100072: Tail_03
+    100074: Root
+    100076: EyeLayer
+    400000: Collar
+    400002: //RootNode
+    400004: Dog
+    400006: Head
+    400008: HeadTop
+    400010: L_Ankle
+    400012: L_Clavicle
+    400014: L_Foot
+    400016: L_Forearm
+    400018: L_Knee
+    400020: L_Thigh
+    400022: L_Toe
+    400024: L_UpperArm
+    400026: L_Wrist
+    400028: LF_Toe
+    400030: LF_Toe1
+    400032: Neck
+    400034: Neck1
+    400036: Pelvis
+    400038: R_Ankle
+    400040: R_Clavicle
+    400042: R_Foot
+    400044: R_Forearm
+    400046: R_Knee
+    400048: R_Thigh
+    400050: R_Toe
+    400052: R_UpperArm
+    400054: R_Wrist
+    400056: RF_Toe
+    400058: RF_Toe1
+    400060: Spine
+    400062: Spine1
+    400064: Spine2
+    400066: Tag
+    400068: Tail_01
+    400070: Tail_02
+    400072: Tail_03
+    400074: Root
+    400076: EyeLayer
+    2100000: No Name
+    4300000: Dog
+    4300002: Tag
+    4300004: Collar
+    4300006: EyeLayer
+    7400000: T_Pose
+    7400002: Run
+    7400004: Idle
+    9500000: //RootNode
+    13700000: Collar
+    13700002: Dog
+    13700004: Tag
+    13700006: EyeLayer
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 0
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: T_Pose
+      takeName: CINEMA_4D_Principal
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Run
+      takeName: CINEMA_4D_Principal
+      firstFrame: 10
+      lastFrame: 34
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Idle
+      takeName: CINEMA_4D_Principal
+      firstFrame: 40
+      lastFrame: 90
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask: []
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: Root
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
